@@ -1,0 +1,13 @@
+
+{
+  "version": 2,
+  "public": true,
+  "builds": [],
+  "routes": [
+    { "src": "/", "dest": "/index.html" },
+    { "src": "/dashboard", "dest": "/dashboard.html" },
+    { "src": "/marketplace", "dest": "/marketplace.html" },
+    { "src": "/legal", "dest": "/legal.html" },
+    { "src": "/press", "dest": "/press.html" }
+  ]
+}
